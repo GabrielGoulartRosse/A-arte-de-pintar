@@ -1,5 +1,6 @@
 Pegue um pincel
 Escolha uma cor
+Pegue uma tinta
 Molhe o pincel
 Coloque na parede
 
